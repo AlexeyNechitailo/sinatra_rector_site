@@ -1,0 +1,28 @@
+!!!
+%html{:lang => "en"}
+  %head
+    %title Приклади
+    %meta{:charset => "utf-8"}/
+    %meta{:content => "width=device-width, initial-scale=1, shrink-to-fit=no", :name => "viewport"}/
+    %meta{:content => "", :name => "description"}/
+    %meta{:content => "", :name => "author"}/
+    / Favicon
+    %link{:href => "images/theme3/favicon.ico", :rel => "icon", :type => "image/x-icon"}/
+    %link{:href => "stylesheets/theme3/styles.css", :rel => "stylesheet"}/
+  %body.d-flex.flex-column.h-100
+    %main.flex-shrink-0
+      / Navigation
+      %nav.navbar.navbar-expand-lg.navbar-light.bg-white.py-3
+        .container.px-5
+          %a.navbar-brand{:href => "/"}
+            %span.fw-bolder.text-primary Приклади
+          %button.navbar-toggler{"aria-controls" => "navbarSupportedContent", "aria-expanded" => "false", "aria-label" => "Toggle navigation", "data-bs-target" => "#navbarSupportedContent", "data-bs-toggle" => "collapse", :type => "button"}
+            %span.navbar-toggler-icon
+          #navbarSupportedContent.collapse.navbar-collapse
+            %ul.navbar-nav.mb-2.mb-lg-0.small.fw-bolder
+              %li.nav-item
+                %a.nav-link{:href => "/theme1"} Тема 1
+              %li.nav-item
+                %a.nav-link{:href => "/theme2"} Тема 2
+              %li.nav-item
+                %a.nav-link{:href => "/theme3"} Тема 3
