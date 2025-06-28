@@ -1,0 +1,24 @@
+=== puma startup: 2025-06-28 20:55:59 +0300 ===
+[69582] + Gemfile in context: /Users/oleksii/projects/sinatra_rector_site/Gemfile
+[69581] - Worker 0 (PID: 69582) booted in 0.0s, phase: 0
+[69583] + Gemfile in context: /Users/oleksii/projects/sinatra_rector_site/Gemfile
+[69581] - Worker 1 (PID: 69583) booted in 0.0s, phase: 0
+[69581] - Gracefully shutting down workers...
+[69581] === puma shutdown: 2025-06-28 20:57:15 +0300 ===
+[69581] - Goodbye!
+=== puma startup: 2025-06-28 20:57:17 +0300 ===
+[70730] + Gemfile in context: /Users/oleksii/projects/sinatra_rector_site/Gemfile
+[70728] - Worker 0 (PID: 70730) booted in 0.0s, phase: 0
+[70731] + Gemfile in context: /Users/oleksii/projects/sinatra_rector_site/Gemfile
+[70728] - Worker 1 (PID: 70731) booted in 0.0s, phase: 0
+[70728] - Gracefully shutting down workers...
+[70728] === puma shutdown: 2025-06-28 20:57:25 +0300 ===
+[70728] - Goodbye!
+=== puma startup: 2025-06-28 20:57:44 +0300 ===
+[71222] + Gemfile in context: /Users/oleksii/projects/sinatra_rector_site/Gemfile
+[71221] - Worker 0 (PID: 71222) booted in 0.0s, phase: 0
+[71223] + Gemfile in context: /Users/oleksii/projects/sinatra_rector_site/Gemfile
+[71221] - Worker 1 (PID: 71223) booted in 0.0s, phase: 0
+[71221] - Gracefully shutting down workers...
+[71221] === puma shutdown: 2025-06-28 20:57:50 +0300 ===
+[71221] - Goodbye!

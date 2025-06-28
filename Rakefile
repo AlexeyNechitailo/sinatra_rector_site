@@ -3,4 +3,4 @@ require 'sinatra'
 # require 'sinatra/activerecord/rake'
 require './candidate'
 
-# run Candidate
+run Candidate
